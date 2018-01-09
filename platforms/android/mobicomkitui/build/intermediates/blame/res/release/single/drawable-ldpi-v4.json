@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_phone_missed_white_24dp.png",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_phone_missed_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_videocam_white_24px.png",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_videocam_white_24px.png"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_videocam_white_24px.png",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_videocam_white_24px.png"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_phone_missed_white_24dp.png",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_phone_missed_white_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_videocam_white_24px.png",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_videocam_white_24px.png"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_phone_missed_white_24dp.png",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_phone_missed_white_24dp.png"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_videocam_white_24px.png",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_videocam_white_24px.png"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\ic_phone_missed_white_24dp.png",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_phone_missed_white_24dp.png"
+    }
+]

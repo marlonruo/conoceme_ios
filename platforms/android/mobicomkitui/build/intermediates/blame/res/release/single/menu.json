@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\channel_menu_option.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\channel_menu_option.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\mobicom_main_menu.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\mobicom_main_menu.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\group_create_menu.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\group_create_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\attachment_menu.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\attachment_menu.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\attachment_menu.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\attachment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\group_create_menu.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\group_create_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\attachment_menu.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\attachment_menu.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\crop_image_menu.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.theartofdev.edmodo\\android-image-cropper\\2.5.1\\res\\menu\\crop_image_menu.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\crop_image_menu.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.theartofdev.edmodo\\android-image-cropper\\2.5.1\\res\\menu\\crop_image_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\menu_contact.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\menu_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\crop_image_menu.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.theartofdev.edmodo\\android-image-cropper\\2.5.1\\res\\menu\\crop_image_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\group_create_menu.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\group_create_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\crop_image_menu.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.theartofdev.edmodo\\android-image-cropper\\2.5.1\\res\\menu\\crop_image_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\mobicom_basic_menu_for_normal_message.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\mobicom_basic_menu_for_normal_message.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\channel_menu_option.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\channel_menu_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\mobicom_main_menu.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\mobicom_main_menu.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\mobicom_basic_menu_for_normal_message.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\mobicom_basic_menu_for_normal_message.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\mobicom_basic_menu_for_normal_message.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\mobicom_basic_menu_for_normal_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\menu_contact.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\menu_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\mobicom_basic_menu_for_normal_message.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\mobicom_basic_menu_for_normal_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\mobicom_main_menu.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\mobicom_main_menu.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\menu_contact.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\menu_contact.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\mobicom_main_menu.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\mobicom_main_menu.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\group_create_menu.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\group_create_menu.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\attachment_menu.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\attachment_menu.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\channel_menu_option.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\channel_menu_option.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\menu_contact.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\menu_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\menu\\channel_menu_option.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\menu\\channel_menu_option.xml"
+    }
+]

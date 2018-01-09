@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkit\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkit\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkit\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkit\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkit\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkit\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkit\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkit\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkit\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    }
+]

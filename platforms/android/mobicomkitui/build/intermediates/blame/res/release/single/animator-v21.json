@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\animator-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\animator-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\animator-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\animator-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+    }
+]

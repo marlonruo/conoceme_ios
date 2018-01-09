@@ -1,0 +1,250 @@
+[
+    {
+        "outputFile": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw600dp-port-v13\\values-sw600dp-port-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 55,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 52,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 52,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 48,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 48,
+                        "endOffset": 247
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw600dp-port-v13\\values-sw600dp-port-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 55,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 52,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 52,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 48,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 48,
+                        "endOffset": 247
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw600dp-port-v13\\values-sw600dp-port-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 55,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 52,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 52,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 48,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 48,
+                        "endOffset": 247
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-sw600dp-port-v13\\values-sw600dp-port-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 55,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 111,
+                    "endColumn": 52,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 52,
+                        "endOffset": 140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 48,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\values-sw600dp-port\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 203,
+                        "endColumn": 48,
+                        "endOffset": 247
+                    }
+                }
+            }
+        ]
+    }
+]

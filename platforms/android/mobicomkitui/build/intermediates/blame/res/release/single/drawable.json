@@ -1,0 +1,1186 @@
+[
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\layout_shadow_border.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\layout_shadow_border.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\circle.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_sent_message.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_sent_message.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_relative_layout_drawable.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_relative_layout_drawable.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\mobiframework_circular_text_view.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\mobiframework_circular_text_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\quickcontact_badge_small.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\quickcontact_badge_small.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_received_message.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_received_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\layout_shadow_border.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\layout_shadow_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_channel_custom_message.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_channel_custom_message.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\admin_text.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\admin_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\online_circle.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\online_circle.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\mobicom_attachment_download.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\mobicom_attachment_download.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_profile_dot.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_profile_dot.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\circle.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\layout_shadow_border.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\layout_shadow_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\unread_message_background.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\unread_message_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\quickcontact_badge_small.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\quickcontact_badge_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\online_circle.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\online_circle.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\online_circle.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\online_circle.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\admin_text.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\admin_text.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\admin_text.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\admin_text.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_sent_message.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_sent_message.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_upload_dot.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_upload_dot.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\unread_message_background.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\unread_message_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_channel_custom_message.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_channel_custom_message.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\button_circle.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\button_circle.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\mobiframework_circular_text_view.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\mobiframework_circular_text_view.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\mobicom_attachment_download.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\mobicom_attachment_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_sent_message.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_sent_message.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\button_circle.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\button_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\button_circle.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\button_circle.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_relative_layout_drawable.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_relative_layout_drawable.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_received_message.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_received_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\layout_shadow_border.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\layout_shadow_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_relative_layout_drawable.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_relative_layout_drawable.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\circle.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_upload_dot.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_upload_dot.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\mobicom_attachment_download.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\mobicom_attachment_download.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_received_message.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_received_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_profile_dot.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_profile_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_upload_dot.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_upload_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_sent_message.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_sent_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\mobiframework_circular_text_view.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\mobiframework_circular_text_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\unread_message_background.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\unread_message_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\mobicom_attachment_download.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\mobicom_attachment_download.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\button_circle.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\button_circle.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\quickcontact_badge_small.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\quickcontact_badge_small.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_relative_layout_drawable.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_relative_layout_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_profile_dot.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_profile_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_upload_dot.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_upload_dot.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\unread_message_background.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\unread_message_background.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\online_circle.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\online_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\quickcontact_badge_small.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\quickcontact_badge_small.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\admin_text.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\admin_text.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\circle.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_channel_custom_message.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_channel_custom_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.6.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\mobiframework_circular_text_view.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\mobiframework_circular_text_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\design\\27.0.2\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\JVRA\\cordova\\conocemeapp\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_profile_dot.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_profile_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_channel_custom_message.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_channel_custom_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\applozic_received_message.xml",
+        "source": "C:\\Users\\Marlon\\Documents\\cordova\\conocemev2\\platforms\\android\\mobicomkitui\\src\\main\\res\\drawable\\applozic_received_message.xml"
+    },
+    {
+        "merged": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\JVRA\\cordova\\conoceme_mobile\\platforms\\android\\mobicomkitui\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_text_cursor_material.xml"
+    }
+]

@@ -1,0 +1,6 @@
+// GENERATED FILE - DO NOT EDIT
+include ":"
+include ":mobicomkitui"
+include ":mobicomkit"
+include ":mobicommons"
+include ":CordovaLib"

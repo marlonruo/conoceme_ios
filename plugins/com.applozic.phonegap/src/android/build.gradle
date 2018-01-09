@@ -1,0 +1,4 @@
+dependencies {
+	//compile 'com.applozic.communication.uiwidget:mobicomkitui:5.1.1'
+	compile project(':mobicomkitui')
+}
