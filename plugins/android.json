@@ -40,9 +40,6 @@
     "cordova-plugin-local-notification": {
       "PACKAGE_NAME": "org.conoceme.app"
     },
-    "com.applozic.phonegap": {
-      "PACKAGE_NAME": "org.conoceme.app"
-    },
     "cordova-plugin-privacyscreen": {
       "PACKAGE_NAME": "org.conoceme.app"
     }

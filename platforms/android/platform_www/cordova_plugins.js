@@ -339,14 +339,6 @@ module.exports = [
       "cordova.plugins.notification.local.core",
       "plugin.notification.local.core"
     ]
-  },
-  {
-    "id": "com.applozic.phonegap.applozic",
-    "file": "plugins/com.applozic.phonegap/www/applozic.js",
-    "pluginId": "com.applozic.phonegap",
-    "clobbers": [
-      "applozic"
-    ]
   }
 ];
 module.exports.metadata = 
@@ -365,7 +357,6 @@ module.exports.metadata =
   "cordova-plugin-device": "2.0.1",
   "cordova-plugin-badge": "0.8.6",
   "cordova-plugin-local-notification": "0.9.0-beta.1",
-  "com.applozic.phonegap": "0.8.0",
   "cordova-plugin-privacyscreen": "0.3.1"
 };
 // BOTTOM OF METADATA

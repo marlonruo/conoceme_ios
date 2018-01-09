@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\tmp\Applozic-Android-SDK-master_5.3\mobicomkitui\src\main\assets"><file name="fonts/fontawesome-webfont.ttf" path="C:\tmp\Applozic-Android-SDK-master_5.3\mobicomkitui\src\main\assets\fonts\fontawesome-webfont.ttf"/></source><source path="C:\tmp\Applozic-Android-SDK-master_5.3\mobicomkitui\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\tmp\Applozic-Android-SDK-master_5.3\mobicomkitui\src\debug\assets"/></dataSet></merger>

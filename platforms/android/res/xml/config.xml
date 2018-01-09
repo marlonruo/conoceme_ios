@@ -38,9 +38,6 @@
     <feature name="LocalNotification">
         <param name="android-package" value="de.appplant.cordova.plugin.localnotification.LocalNotification" />
     </feature>
-    <feature name="ApplozicCordovaPlugin">
-        <param name="android-package" value="com.applozic.phonegap.ApplozicCordovaPlugin" />
-    </feature>
     <feature name="PrivacyScreenPlugin">
         <param name="android-package" value="org.devgeeks.privacyscreen.PrivacyScreenPlugin" />
         <param name="onload" value="true" />
