@@ -55,6 +55,8 @@ body {
     padding:0px;
     width:100%;
 	color:#312C32;
+	-webkit-appearance: none;
+    -webkit-border-radius: 0;
 }
 
 /* Portrait layout (default) */
