@@ -3761,7 +3761,7 @@ function abrir_canal(numero){
 			}
 	
 	
-			function revisa_mensajes(){
+			/*function revisa_mensajes(){
 						
 								applozic.getUnreadCount(
 									function(response){
@@ -3772,7 +3772,7 @@ function abrir_canal(numero){
 								);
 					
 				setTimeout('revisa_mensajes()', 10000)
-			}
+			}*/
 	
 	
 	
@@ -3800,7 +3800,7 @@ function abrir_canal(numero){
 									'userId' : p_correo,
 									'applicationId' : '3b66345c921f7a78c8414e15221417cf7',
 									'deviceApnsType' : 0,    //Set 0 for Development and 1 for Distribution (Release)
-									'imageLink' : p_foto1
+									'imageLink' : 'https://conoceme.vip/uploads/mini/' + p_foto1
 								};
 						$applozic = applozic.login(alUser, function() {
 								applozic.launchChat(function() {}, function() {});	
@@ -3815,7 +3815,7 @@ function abrir_canal(numero){
 									'userId' : p_correo,
 									'applicationId' : '3b66345c921f7a78c8414e15221417cf7',
 									'deviceApnsType' : 0,    //Set 0 for Development and 1 for Distribution (Release)
-									'imageLink' : p_foto1
+									'imageLink' : 'https://conoceme.vip/uploads/mini/' + p_foto1
 								};
 						$applozic = applozic.login(alUser, function() {
 								applozic.registerPushNotification(function() {}, function(){});	
