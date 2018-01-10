@@ -93,6 +93,10 @@
             {
               "xml": "<string>This app requires photo library access to function properly.</string>",
               "count": 1
+            },
+            {
+              "xml": "<string>This app needs read/write-access photo library access</string>",
+              "count": 1
             }
           ],
           "NSBluetoothPeripheralUsageDescription": [
@@ -105,11 +109,19 @@
             {
               "xml": "<string>This app requires microphone access to function properly.</string>",
               "count": 1
+            },
+            {
+              "xml": "<string>This app needs microphone access</string>",
+              "count": 1
             }
           ],
           "NSCameraUsageDescription": [
             {
               "xml": "<string>This app requires camera access to function properly.</string>",
+              "count": 1
+            },
+            {
+              "xml": "<string>This app needs camera access</string>",
               "count": 1
             }
           ],
@@ -128,6 +140,12 @@
           "NSRemindersUsageDescription": [
             {
               "xml": "<string>This app requires reminders access to function properly.</string>",
+              "count": 1
+            }
+          ],
+          "NSPhotoLibraryAddUsageDescription": [
+            {
+              "xml": "<string>This app needs write-access to photo library</string>",
               "count": 1
             }
           ]
@@ -167,6 +185,13 @@
       "PACKAGE_NAME": "org.conoceme.app"
     },
     "cordova-plugin-camera": {
+      "PACKAGE_NAME": "org.conoceme.app"
+    },
+    "cordova-plugin-ios-camera-permissions": {
+      "CAMERA_USAGE_DESCRIPTION": "This app needs camera access",
+      "MICROPHONE_USAGE_DESCRIPTION": "This app needs microphone access",
+      "PHOTOLIBRARY_ADD_USAGE_DESCRIPTION": "This app needs write-access to photo library",
+      "PHOTOLIBRARY_USAGE_DESCRIPTION": "This app needs read/write-access photo library access",
       "PACKAGE_NAME": "org.conoceme.app"
     }
   },
@@ -526,6 +551,7 @@
     "cordova-plugin-device": "2.0.1",
     "cordova-plugin-badge": "0.8.6",
     "cordova-plugin-local-notification": "0.9.0-beta.1",
-    "cordova-plugin-camera": "4.0.1"
+    "cordova-plugin-camera": "4.0.1",
+    "cordova-plugin-ios-camera-permissions": "1.2.0"
   }
 }

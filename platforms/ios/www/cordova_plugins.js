@@ -356,7 +356,8 @@ module.exports.metadata =
   "cordova-plugin-device": "2.0.1",
   "cordova-plugin-badge": "0.8.6",
   "cordova-plugin-local-notification": "0.9.0-beta.1",
-  "cordova-plugin-camera": "4.0.1"
+  "cordova-plugin-camera": "4.0.1",
+  "cordova-plugin-ios-camera-permissions": "1.2.0"
 };
 // BOTTOM OF METADATA
 });
